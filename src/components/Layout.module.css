@@ -1,0 +1,10 @@
+.container {
+  min-width: 80%;
+  display: flex;
+  min-height: 40px;
+  padding: 30px;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  border: 1px solid black;
+}

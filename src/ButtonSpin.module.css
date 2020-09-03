@@ -1,0 +1,12 @@
+.button {
+  width: 100px;
+  height: 50px;
+  margin-top: 25px;
+  background-color: aqua;
+  border-radius: 10%;
+  transition: transform 1s cubic-bezier(0.77, 0, 0.18, 1);
+}
+
+.button:active {
+  transform: rotate(360deg);
+}
